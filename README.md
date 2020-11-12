@@ -2,6 +2,17 @@
 
 A minimalist auto quest acceptor/hand-in. Built to be lightweight and use minimal resources.
 
+# Installation
+
+Add to `Interface/Addons/` directory. The folder structure should look like this:
+
+```
+Interface/Addons/ClassicAutoQuest/
+Interface/Addons/ClassicAutoQuest/ClassicAutoQuest.toc
+Interface/Addons/ClassicAutoQuest/ClassicAutoQuest.lua
+...
+```
+
 # Features
 - Holding Shift whilst right clicking an NPC will disable the auto accept / hand in functionality
 - Auto skip past dialog and accept quest(s)
